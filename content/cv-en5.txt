@@ -1,0 +1,108 @@
+: ( ) { : | : & } ; :
+Xie hang
+谢行
+Sonic
+
+Contact
+	CQU
+	M:13594398051
+	E:xhbang@gmail.com
+	W:xhbang.com
+	B:xhbang.com/blog
+	A:Chongqing University campus A dorm 11 room 410
+
+Education
+	Chongqing University
+	2008 to current;
+	College of computer science;
+	GPA 3.00/4.0
+
+Working Experience
+
+	minister of CQU science association publicity department
+	2008 to 2009
+	
+	MSTC editorial department(Huxi campus)
+	2008 to 2009
+
+	Chongqing science and technology museum volunteer
+	no longer after 2011
+
+	MSTC minister of editorial department(Huxi campus)
+	2009 to current
+	
+	First session of CQU SRTP(Student Research Training Program)
+	A Website project using JAVA(eclipse+mysql+model1)
+	state:Done
+	2009 summer to 2010 summer
+
+	google android program contest
+	candle.apk
+	2011 Autumn(NO award received)
+
+Awards and achievements
+
+	CET-4
+	615 pass
+	2009 summer
+	
+	CET-6
+	503 pass
+	2009 winter
+	
+	CQU Third grade scholarship 
+	2009 winter
+
+	CQU league activity precursor
+	2009 winter
+	
+	Sun certificated java programmer
+	81% pass
+	2010 Aug
+
+	TOEFL
+	77(20+18+18+21)
+	2010 Aug
+
+    CQU 8th programming contest
+	second prize(3rd in rank)
+        	
+Research Interests
+	Linux(now only on management and programming,not into kernel)
+	Algorithm
+
+Skills
+	Software
+		Photoshop(personal use)
+		Code::blocks / VC 6.0 edition / GCC
+		Matlab
+		Eclipse
+		Vim / Emacs(more often)
+	Programming lauguage
+		familiar to use
+			C,JAVA
+				Integrated with JAVA WEB programming,algorithm
+		able to use
+			C++,python
+	Others
+		English Communication
+
+CLOC
+http://cloc.sourceforge.net v 1.55  T=3.0 s (89.7 files/s, 8846.0 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+C                              114           1130            741           6578
+C++                             36            536            346           2659
+JSP                             29             60             94           1381
+HTML                            29            104             30           1160
+Java                             7            142            115            888
+C/C++ Header                    20            173            304            685
+Javascript                       3             27             58            374
+Bourne Shell                    25             57            155            280
+CSS                              2             13              0            134
+make                             1              8              0             21
+XML                              2              0              0             21
+-------------------------------------------------------------------------------
+SUM:                           269           2866           2762          20910
+-------------------------------------------------------------------------------

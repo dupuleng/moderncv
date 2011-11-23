@@ -1,0 +1,99 @@
+谢行
+Xie hang
+Sonic
+
+重庆大学
+手机:13594398051
+邮箱:xhbang@gmail.com
+个人主页:xhbang.com
+
+教育经历
+重庆大学
+2008至今
+计算机学院-计算机科学与技术;
+GPA 3.00/4.0 年级排名约30/300
+
+工作经历
+	重庆大学科协宣传部部长
+	2008至2009
+	
+	微软技术俱乐部编辑部(虎溪校区)
+	2008至2009
+
+	重庆科技馆志愿者
+        2009 夏
+
+	微软俱乐部编辑部部长(虎溪校区)
+	2009 至今
+	
+	重庆大学第一届SRTP
+	项目名称：重庆大学信息平台
+	状态：已结题
+	技术实现：Eclipse+mysql+模型一
+
+	google android程序设计大赛
+	作品：candle，被安慰两件T-shirt	
+
+	重庆大学新闻网技术部
+	2010 冬至今
+
+奖励&认证
+
+	英语4级
+        615 pass
+	2009 6月
+	
+	英语6级
+        503 pass
+	2009 12月
+	
+        重庆大学丙等奖学金
+	2009 冬
+
+	重庆大学社团活动先进个人
+	2009 冬
+	
+	Sun certificated java programmer
+	2010 8月
+
+	托福
+	77(20+18+18+21)
+	2010 8月
+	
+
+研究兴趣
+	机器人(失败。。。)
+	Linux(未深入内核和开发水平)
+	算法(没参加过ACM)
+
+技能
+软件
+	Photoshop(个人爱好)
+	Code::blocks
+	VC 6.0 edition
+	Matlab
+	Eclipse
+	Vim
+        Emacs(fav!)
+语言
+	熟练
+		JAVA,C
+			结合JAVA WEB编程，算法
+	提高
+		C++,python
+其他
+        英语交流
+
+个人兴趣
+        魔方，数独，吃豆人
+        单车旅行，android
+        英美文学
+        GEEK文化
+        PS恶搞
+
+个人说明
+        伪文艺，慢生活
+        热爱学习厌恶考试
+        特别喜欢短头发的女生
+
+//version 3.0.please view english version which is latest
